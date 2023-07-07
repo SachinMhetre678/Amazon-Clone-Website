@@ -1,1 +1,1 @@
-# Amazon-Clone-Website
+# Amazon-Clone-Website is css based website
